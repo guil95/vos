@@ -1,0 +1,25 @@
+{
+    "name": "guil95/vos",
+    "description": "Value objects commons",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Guil95\\Vos\\": "src",
+            "Guil95\\Tests\\": "tests"
+        }
+    },
+    "require": {
+        "php": ">=8"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Guilherme Henrique Rodrigues",
+            "email": "guilhermerodriguestb@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
