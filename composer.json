@@ -18,7 +18,6 @@
             "email": "guilhermerodriguestb@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require-dev": {
         "phpunit/phpunit": "^9.5"
     },
